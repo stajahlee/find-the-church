@@ -3,8 +3,36 @@
     "name": "Church of Christ on Fishinger Road",
     "website": "https://fishinger.church/",
     "phone": "614-451-4886",
-    "address": "1130 Fishinger Road, Columbus, Ohio, 43221",
+    "address_line1": "1130 Fishinger Road",
+    "address_line2": null,
+    "city": "Columbus",
+    "state": "Ohio",
+    "zip": "43221",
     "latitude": 40.02371034910782,
     "longitude": -83.04378785593424
+  },
+  {
+    "name": "Dublin-Powell Church of Christ",
+    "website": "https://www.dpcoc.org/",
+    "phone": "614-761-3810",
+    "address_line1": "9321 Hillcrest Dr",
+    "address_line2": null,
+    "city": "Powell",
+    "state": "Ohio",
+    "zip": "43065",
+    "latitude": 40.1580153,
+    "longitude": -83.1366694
+  },
+  {
+    "name": "South Logan Church of Christ",
+    "website": "https://southlogancoc.weebly.com/",
+    "phone": "740-385-7051",
+    "address_line1": "13816 Walhonding Avenue",
+    "address_line2": null,
+    "city": "Logan",
+    "state": "Ohio",
+    "zip": "43138",
+    "latitude": 39.5263799,
+    "longitude": -82.4085035
   }
 ]
